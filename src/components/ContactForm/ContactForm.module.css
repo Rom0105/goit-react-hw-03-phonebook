@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.input {
+  margin-left: 10px;
+}
+
+.label {
+  margin-right: 10px;
+}
